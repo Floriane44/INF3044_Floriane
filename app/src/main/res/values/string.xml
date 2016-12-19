@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mon application</string>
+    <string name="fra">Nouveau boutton</string>
+    <string name="biere">Une petite bière ?</string>
+    <string name="bo">Boutton</string>
+    <string name="fra3">Devinette</string>
+    <string name="choix3">Réponse</string>
+    <string name="Notif">Notif</string>
+    <string name="fra2">Qu\'est-ce qui est petit, jaune et très dangereux ?</string>
+    <string name="sc3">Un poussin avec une mitraillette</string>
+    <string name="prop">Veux-tu une bière ?</string>
+    <string name="bonj">Bonjour</string>
+    <string name="en">Température et bières</string>
+    <string name="sc1">tag</string>
+</resources>

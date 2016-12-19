@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/it1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="@string/fra3"/>
+
+    <item
+        android:id="@+id/it2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="@string/choix3"/>
+
+    <item
+        android:id="@+id/it3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="@string/Notif"/>
+
+</menu>
