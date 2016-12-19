@@ -44,5 +44,11 @@
         android:layout_height="0dp"
         android:layout_width="match_parent"
         android:id="@+id/rv_biere"/>
+    
+    <android.support.v7.widget.RecyclerView
+        android:layout_height="0dp"
+        android:layout_width="match_parent"
+        android:layout_below="@id/button3"
+        android:id="@+id/rv_meteo"/>
 
 </LinearLayout>
